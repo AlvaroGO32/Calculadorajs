@@ -1,2 +1,0 @@
-# Calculadorajs
-Calculadora matemática
